@@ -8,7 +8,7 @@ This is **not** a data stealer. You can review the entire code here and verify i
 
 - A simplified version for Stefan's patcher.
 - Compatible with every browser; Chrome and Edge are automated.
-- Please follow the video tutorial and ensure you have Python installed. Run the `Pythoninstaller.bat` in case of issues.
+- Please follow the video tutorial and ensure you have Python installed. Run the `InstallPython.bat` in case of issues.
 - Compiled(EXE) version coming soon.
 
 **Showcase:**
